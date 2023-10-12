@@ -3,5 +3,5 @@
 
 * [Portfolio]('#')
 * [LinkedIn]('https://www.linkedin.com/in/joel-huckle-4a718328a/')
-* [Twitter]('https://twitter.com/JoelHuckle__')
+* [Twitter]('https://twitter.com/JoelHuckle')
   
