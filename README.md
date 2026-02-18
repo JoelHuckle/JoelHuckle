@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [Prodmarket](https://github.com/JoelHuckle/prodmarket)
 
-- 🌱 I’m currently learning **JavaScript, React, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://joelhuckle.netlify.app](https://joelhuckle.netlify.app)
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **C++, Java, TypeScript**
 
 - 📫 How to reach me **joelhuckle2004@gmail.com**
 
