@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">A passionate software engineer from England</h3>
 
-- 🔭 I’m currently working on [Prodmarket](https://github.com/JoelHuckle/prodmarket)
+- 🔭 I’m currently working on [Prodmarket](https://github.com/matthewlekman/prodmarket)
 
 - 🌱 I’m currently learning **C++, Java, TypeScript**
 
